@@ -99,3 +99,17 @@ body {
         font-size: 3.8vw;
     }
 }
+
+footer{
+    background-color: black;
+    color: white;
+    position: fixed;
+    botton: 0;
+    width: 100%
+    heigth: 2 rem
+}
+
+footer p {
+    text-align: center;
+    font-size: 0,b rem;
+    margin-top: 0,5 rem;
