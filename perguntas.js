@@ -21,3 +21,21 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'Como falar bom dia em Ingles?',
+    'good morning!'
+)
+
+criaCartao(
+    'Matematica',
+    'Quanto é 20.4',
+    '80'
+)
+
+criaCartao(
+    'Portugues'
+    'De quem é a cronica:A ilusao das redes sociais',
+    'Roberto Mancuzo'
+)
